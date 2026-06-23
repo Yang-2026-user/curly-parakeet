@@ -12,7 +12,6 @@ This is a fully functional **PVP, AI, and online battle** Gomoku game, written i
 *   **三种模式 (Three Modes)**：
     *   👥 **双人对战 (PVP)**：两人轮流在同一设备上对弈。
     *   🤖 **人机对战 (AI)**：可挑战“简单”、“普通”、“困难”三档AI。可选执黑或执白。
-    *   🌐 **联机对战 (Online)**：通过房间码，在不同浏览器标签页或设备间对战（基于BroadcastChannel）。
 *   **交互与反馈 (Interaction & Feedback)**：
     *   🎨 **多款主题 (Themes)**：榧木、深蓝、翠绿、石墨，护眼又美观。
     *   🔊 **音效反馈 (Sound Effects)**：落子、获胜、失败均有提示音。
