@@ -3,13 +3,13 @@
 *   **文件位置 (File Location)**：`projects/gomoku.html`
 *   **在线试玩 (Play Online)**：点击右侧“About”区域的链接，或访问 `https://yang-2026-user.github.io/curly-parakeet/projects/gomoku.html` （需先开启GitHub Pages）
 
-这是一个功能完整的**双人对战、人机对战和联机对战**五子棋游戏，使用纯HTML、CSS和JavaScript编写。
+这是一个功能完整的**双人对战、人机对战**五子棋游戏，使用纯HTML、CSS和JavaScript编写。
 
-This is a fully functional **PVP, AI, and online battle** Gomoku game, written in pure HTML, CSS, and JavaScript.
+This is a fully functional **PVP, AI** Gomoku game, written in pure HTML, CSS, and JavaScript.
 
 ### ✨ 主要功能 (Features)
 
-*   **三种模式 (Three Modes)**：
+*   **两种模式 (two Modes)**：
     *   👥 **双人对战 (PVP)**：两人轮流在同一设备上对弈。
     *   🤖 **人机对战 (AI)**：可挑战“简单”、“普通”、“困难”三档AI。可选执黑或执白。
 *   **交互与反馈 (Interaction & Feedback)**：
