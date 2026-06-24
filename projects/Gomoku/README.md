@@ -1,14 +1,7 @@
-#🦜 我的编程百宝箱(我的编码百宝箱)
-
-欢迎来到我的第一个开源代码库仓库！这里存放着我学习编程过程中的练习作品。
-欢迎来到我的第一个GitHub仓库！在这里，我一边学习编码，一边保存我的实践项目。
-
----
-
 ##🎮 项目：五子棋游戏(项目:五子棋游戏)
 
 *   **文件位置(文件位置)**：`projects/Gomoku/gomoku.html`
-*   **在线试玩(在线播放)**：点击右侧“关于”区域的链接,或访问`https://yang-2026-user.github.io/curly-parakeet/projects/Gomoku/Gomoku_V1.0.1.html`（需先开启GitHub页面)
+*   **在线试玩(在线播放)**：点击右侧“关于”区域的链接,或访问`https://yang-2026-user.github.io/curly-parakeet/projects/Gomoku/Gomoku_1.0.1.html`（需先开启GitHub页面)
 
 这是一个功能完整的**双人对战、人机对战**五子棋游戏,使用纯HTML、CSS和Java Script语言编写。
 
