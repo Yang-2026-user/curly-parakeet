@@ -8,7 +8,7 @@ Welcome to my first GitHub repository! Here I keep my practice projects while le
 ## 🎮 项目：五子棋游戏 (Project: Gomoku Game)
 
 *   **文件位置 (File Location)**：`projects/Gomoku/gomoku.html`
-*   **在线试玩 (Play Online)**：点击右侧“About”区域的链接，或访问 `https://yang-2026-user.github.io/curly-parakeet/projects/Gomoku/gomoku.html` （需先开启GitHub Pages）
+*   **在线试玩 (Play Online)**：点击右侧“About”区域的链接，或访问 `https://yang-2026-user.github.io/curly-parakeet/projects/Gomoku/Gomoku.html` （需先开启GitHub Pages）
 
 这是一个功能完整的**双人对战、人机对战**五子棋游戏，使用纯HTML、CSS和JavaScript编写。
 
